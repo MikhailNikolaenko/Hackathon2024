@@ -1,0 +1,116 @@
+The Extended Reality Lab (XR-Lab) is a pioneering research facility affiliated with the College of Design, Architecture, Art, and Planning (DAAP) and the Digital Futures initiative at the University of Cincinnati. Specializing in exploring human interaction within simulated environments, the XR-Lab leverages Virtual Reality, Augmented Reality, and Mixed Reality to enhance communication and collaboration. It serves a broad spectrum of applications, including education, healthcare, safety, and professional training across academic and industry spheres.
+Focus: The XR-Lab unites a diverse group of designers, artists, engineers, and scientists to craft XR experiences. These experiences are specifically designed to simulate DICE scenarios—those that are dangerous, impossible, counterproductive, or expensive to replicate in reality.
+Objective: Our goal is twofold. Firstly, we aim to revolutionize living and working environments by integrating digital spaces. Secondly, we endeavor to develop and refine metrics for evaluating human performance within XR environments.
+Methodology: We achieve our objectives through innovative technologies and methodologies, including the Metaverse, AI and LLM, IoT, Digital Twins, real-time visualization, animation, digital characters, and the development of serious games.
+Projects: Our portfolio includes a wide array of projects that demonstrate the lab’s versatility and impact. These projects range from using XR to foster empathy and cognitive embodiment to visualizations in architecture, engineering, and construction. We have also developed training simulations for police, egress, and driving simulations, as well as healthcare and mental health training programs. Additionally, our work encompasses digital twin technology, biometric data collection via eye-tracking, human behavior simulation, and large-scale reality capture.
+Through these endeavors, the XR-Lab continues to push the boundaries of how extended reality technologies can be used to create meaningful and impactful experiences in a multitude of fields.
+
+
+THERE ARE MANY PROJECTS AT XR LAB, BUT EVERYTHING GOING FORWARD IS FROM WHEN WE MOVED TO THE NEW RESEARCH BUILDING BY UC "DIGITAL FUTURES"
+START OF XR LAB AT DIGITAL FUTURES
+June 10, 2022/in News, Research, XR-Lab / XR Lab moved in Digital Futures
+As the director of the Extended Reality lab (XR-Lab), I am thrilled to report that our XR-Lab has moved into the new Digital Futures Building at UC.
+Our Lab will continue to broaden the scope of collaborations, using our expertise in both academic and professional fields in Virtual Reality, Augmented Reality, and Mixed Reality. We look forward to the long-standing collaborative relationships with faculty at the UC Digital Futures, Criminology and Justice program at CECH, Civil Engineering program, and transportation program at CEAS, Live Well Collaborative, Council on Ageing, Cincinnati Insurance Company, and Cincinnati Children’s Hospital and Medical Center.
+Please visit our lab after August 2022 to check out the exciting lab space and facilities at the new UC Digital Future Building.
+
+
+
+June 29, 2022/in Mixed Reality, News, Research / Visual Impairment Sim
+Our research team at the Live Well Collaborative created a Visual Impairment Simulation VR prototype to simulate glaucoma vision and peripheral vision loss in 2021. Glaucoma comprises a group of glaucomatous optic nerve damage and visual field loss disorders. It is a significant cause of blindness in the United States and is the most common cause of blindness among black Americans. An estimated 1 million Americans over 65 years of age have experienced the loss of vision associated with glaucoma, and approximately 75 percent of persons who are legally blind because of glaucoma are over the age of 65.[1]
+A prototype of glaucoma VR simulation was developed by our team in 2021.  A virtual kitchen scenario was created to allow users to experience the challenges of a visual impairment person in an immersive environment. Hand-tracking technology with Oculus Quest 2 was used for creating interactions with virtual objects.
+Team: Ming Tang, Ryan Tinney, Alejandro Robledo, Tosha Bapat, Linda Dunseath,  Matt Anthony @ Live Well Collaborative. 
+
+
+
+July 12, 2022/in Mixed Reality, News, Projects, Research, XR-Lab / Therapeutic Crisis Intervention Simulation
+VR-based Employee Safety Training. Therapeutic Crisis Intervention Simulation 
+Grant:
+Virtual Reality for Employee Safety Training. Phase I. Sponsored research by the Cincinnati Children’s Hospital Medical Center. PI. Ming Tang. $16,631. Period: 6.2022- 09.2022.
+Virtual Reality for Employee Safety Training.Therapeutic Crisis Intervention Simulation-Phase II.  Sponsored research by the Cincinnati Children’s Hospital Medical Center. PI. Tang. $22,365. Period: 2.2023- 12.2023.
+Under the leadership of Ming Tang, the XR-Lab is collaborating with the Cincinnati Children’s Hospital Medical Center (CCHMC) to develop a VR-based simulation to enhance employee safety training. This initiative involves creating a virtual hospital environment with AI-controlled characters to facilitate research on diverse scenarios encountered during therapeutic crisis interventions. A vital feature of this simulation is the VR dialogue between a staff member and a teenage patient exhibiting aggressive behavior and mental illness. The primary objective is to equip staff members with the necessary skills to de-escalate tense situations effectively and adhere to appropriate protocols, thereby ensuring a safer and more controlled environment for staff and patients.
+Team:
+Ming Tang, Nancy Daraiseh, Maurizio Macaluso, Krista Keehn, Harley Davis, Aaron Vaughn, Katheryn Haller,  Joseph Staneck, Emily Oehler
+Employee Safety Learning Lab, CCHMC
+Extended Reality (XR) Lab, UC
+Field of research: Virtual Reality, Safety Training, Therapeutic Crisis Intervention, Mental Health,  Human Behavior Simulation
+
+
+
+
+November 17, 2022/in Mixed Reality, News, Research, XR-Lab / Industry 4.0/5.0 grant
+Immersive vs. Traditional Training​ – a comparison of training modalities​
+PIs: Tamara Lorenz, Ming Tang
+Dr. Tamara Lorenz. Associate Professor. Embodied Interactive Systems Lab, Industry 4.0 & 5.0 Institute (I45I), Center for Cognition, Action, and Perception (CAP)
+Ming Tang. Professor. Extended Reality Lab, Industry 4.0 & 5.0 Institute (I45I), Institute for Research in Sensing (IRiS)
+Consortium Research Project: evaluate the effectiveness of an immersive training protocol against different traditional training modalities. 
+Grant. $40,000. By UC Industry 4.0/5.0 Institute 01.2023-01.2024
+Open Questions​
+Is immersive training equally as effective or better than traditional training? ​
+Is immersive training beneficial for specific types of training (skill, behavior), while other modalities are better for other types (e.g. knowledge acquisition)?​
+Does the benefit of immersive VR training warrant the initial investment in equipment and subsequent investment in project building, running, and sustenance?​
+Proposal​
+Evaluation of the effectiveness of an immersive training protocol against different traditional training modalities. ​
+Evaluation of modality-dependent benefits for different learning goals. ​
+Derivation of assessment metrics for VR training against other training modalities. 
+Training scenario: DAAP Fire Evacuation traditional training with slides and maps.
+VR training with an immersive and interactive experience.
+Thanks to the Institute’s Industrial Advisory Board (IAB) and industry patrons, including Siemens, Kinetic Vision, John Deere, Stress Engineering Services, Innovative Numberics, and Ethicon. 
+Next Phase experiments
+Multi-player test
+
+
+
+
+
+June 11, 2023/in Mixed Reality, News, Projects, Research, XR-Lab / Cloud-based Digital Twin
+Clients are one click away from interacting with a Digital Twin model on their personal devices. No installation is required.
+The XR-Lab’s project showcases a cloud-based Digital Twin (DT) model, designed for accessibility and interaction via mobile devices. This advanced DT model allows multiple users to engage with its complex features directly through touch screens, eliminating the need for app installations. Clients can effortlessly access the content using a simple URL in a web browser on their personal iOS or Android mobile devices and tablets. The project is distinguished by its photorealistic renderings, which are streamed to clients at high frame rates, ensuring a visually rich and seamless experience. Furthermore, our DT model is an integration of various cutting-edge technologies, including Building Information Modeling (BIM), Metadata, IoT sensor data, 360-degree images/videos, and web3D content, creating a comprehensive and interactive digital environment.
+
+
+
+June 18, 2023/in News, Research, XR-Lab / Wayfinding through VR
+Use VR walkthrough for wayfinding research. Players’ routes, and walking behavior, such as head movement, are captured and evaluated.
+
+
+
+November 19, 2023/in Mixed Reality, News, Research, XR-Lab / paper on JEC
+Paper accepted in the Journal of Experimental Criminology.
+Cory P. Haberman, Ming Tang, JC Barnes, Clay Driscoll, Bradley J. O’Guinn, Calvin Proffit, The Effect of Checklists on Evidence Collection During Initial Investigations A Randomized Controlled Trial in Virtual Reality. Journal of Experimental Criminology. 
+Objective To examine the impact of an investigative checklist on evidence collection by police officers responding to a routine burglary investigation.
+Methods A randomized control trial was conducted in virtual reality to test the effectiveness of an investigative checklist. Officers in the randomly assigned treatment group (n = 25) were provided with a checklist during the simulated investigation. Officers in the control group (n = 26) did not have access to the checklist at any time. The checklist included five evidence items commonly associated with burglary investigations.
+Results Officers who were randomly provided with an investigative checklist were significantly more likely to collect two evidence items located outside of the virtual victim’s home. Both treatment and control officers were about equally as likely to collect three evidence items located inside the residence.
+Conclusions Investigative checklists represent a promising new tool officers can use to improve evidence collection during routine investigations. More research is needed, however, to determine whether checklists improve evidence collection or case clearances in real-life settings. Virtual reality simulations provide a promising tool for collecting data in otherwise difficult or complex situations to simulate
+Keywords: Investigations, Burglary, Checklists, Policing, Experiment, Randomized controlled trial
+
+
+
+December 9, 2023/in Mixed Reality, News, Research, XR-Lab / paper SpaceXR in HCI 2024
+Our “SpaceXR: Virtual Reality and Data Mining for Astronomical Visualization ” paper is accepted at the 26th HCI International Conference.  Washington DC, USA. 29 June – 4 July 2024
+Authors: Mikhail Nikolaenko, Ming Tang
+Abstract
+This paper presents a ” SpaceXR ” project that integrates data science, astronomy, and Virtual Reality (VR) technology to deliver an immersive and interactive educational tool. It is designed to cater to a diverse audience, including students, academics, space enthusiasts, and professionals, offering an easily accessible platform through VR headsets. This VR application offers a data-driven representation of celestial bodies, including planets and the sun within our solar system, guided by data from the NASA and Gaia databases. The VR application empowers users with interactive capabilities encompassing scaling, time manipulation, and object highlighting. The potential applications span from elementary educational contexts, such as teaching the star system in astronomy courses, to advanced astronomical research scenarios, like analyzing spectral data of celestial objects identified by Gaia and NASA. By adhering to emerging software development practices and employing a variety of conceptual frameworks, this project yields a fully immersive, precise, and user-friendly 3D VR application that relies on a real, publicly available database to map celestial objects. 
+
+
+
+
+January 24, 2024/in News, Research, XR-Lab / Digital Twin, LLM & IIOT
+IIOT for legacy and intelligent factory machines with AR and LLM feedback with a Digital Twin demonstration of real-time IOT for architecture/building applications using Omniverse.
+PI: Prof. Sam Anand (Director of Smart-Manufacturing Lab, Dept. of Mechanical Engineering, CEAS)
+co-PI:  Prof. Ming Tang (Director of XR-Lab, School of Architecture & Interior Design, DAAP)
+$40,000. UC Industry 4.0/5.0 Institute Consortium Research Project: 01.2024-01.2025
+Environment Sensors for Digital Twin model. XR-Lab and SM-Lab at Digital Futures Building.
+Integration of Reality capture, IOT, LLM into a digital twin model.  
+Primary Objective: To develop a conversational large language modeling system that acquires data from legacy machines, digital machines, environmental data, real-time data, and historical data within an IIoT environment to create a digital twin for assisting in real-time maintenance and assistance (Application Use Case: Digital Future’s Building) 
+Student: Sourabh Deshpande, Anuj Gautam , Manish Raj Aryal, Mikhail Nikolaenko, Aayush Kumar, Eian Bennett
+
+
+
+P&G Metaverse
+February 28, 2024/in News, Research /
+Title: Leveraging Metaverse Platforms for Enhanced Global Professional Networking – Phase 1
+Ming Tang, Principal Investigator
+Amount: $32,416
+Funding: P&G Digital Accelerator.
+Gotal: Metaverse technologies for global engagement. Human-Computer Interaction, Digital Human. Immersive visulzation. 
+P&G Team. : Elsie Urdaneta, Sam Azeba. Paula Saldarriaga
+UC Team: Ming Tang, Students: Nathaniel Brunner, Ahmad Alrefai, Sid Urankar

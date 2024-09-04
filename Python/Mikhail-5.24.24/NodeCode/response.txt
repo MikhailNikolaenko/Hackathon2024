@@ -1,0 +1,15 @@
+The XR-Lab at the University of Cincinnati works on a variety of cutting-edge research projects. Some notable projects include:
+
+1. **Visual Impairment Simulation VR Prototype:** Created in collaboration with the Live Well Collaborative, this project simulates glaucoma vision and peripheral vision loss to provide insight into the challenges faced by visually impaired individuals.
+
+2. **Therapeutic Crisis Intervention Simulation:** A VR-based simulation in partnership with the Cincinnati Children’s Hospital Medical Center to enhance employee safety training, focusing on therapeutic crisis interventions.
+
+3. **Immersive vs. Traditional Training:** A research project that aims to evaluate the effectiveness of immersive training protocols compared to traditional training modalities, particularly focusing on learning goals and assessment metrics.
+
+4. **Cloud-based Digital Twin:** This project showcases a Digital Twin model designed for accessibility and interaction via mobile devices, enabling clients to engage with complex features through a simple URL on their personal devices.
+
+5. **Wayfinding through VR:** Utilizing VR walkthroughs for wayfinding research, capturing and evaluating players' routes and walking behavior to enhance navigation experiences.
+
+6. **Enhancing Evidence Collection in Investigations:** A project using virtual reality to study the impact of checklists on evidence collection during police investigations, aiming to improve data collection in various scenarios.
+
+7. **SpaceXR Project:** Integrating data science, astronomy, and VR technology to create an immersive educational tool focused on celestial bodies, offering interactive capabilities for educational and research purposes.

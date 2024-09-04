@@ -1,0 +1,5 @@
+Room Layout:
+1. [BackLeft] - This area houses many of the posters of the XR-Lab, which displays the following projects: Designing the pharmacy of tomorrow, planet fitness, AR in kroger, kroger in the metaverse, Digital Twin, IOT data-viz and building information model integration, therapeutic crisis intervention simulation, virtual reality for caregiver training, augmented reality based digital-fabrication, eye-tracking technology, daap egress, virtual reality for immersive visualization, mixed reality for medical data visualization, vr for police training, eye-tracking for drivers visual behavior, training simulation for snowplow. 
+2. [FrontLeft] - This area houses a few objects on display, specifically a few VR, AR, and MR devices. Another big element is the driving simulation that includes a Logitech G920 full driving rig. 
+3. [FrontRight] - This area houses another poster, specifcally on Meta-Humans. Another big element is the KatVR, which is used for simulating walking/running in VR. 
+
